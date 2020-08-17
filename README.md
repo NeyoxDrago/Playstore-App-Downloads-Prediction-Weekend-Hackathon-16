@@ -6,4 +6,4 @@
 #### Final Score : 1.06487 , respective public score : 1.06161
 
 
-https://github.com/NeyoxDrago/Playstore-App-Downloads-Prediction-Weekend-Hackathon-16/blob/master/machinehack_leaderboard.PNG
+![Leaderboard](https://github.com/NeyoxDrago/Playstore-App-Downloads-Prediction-Weekend-Hackathon-16/blob/master/machinehack_leaderboard.PNG)
